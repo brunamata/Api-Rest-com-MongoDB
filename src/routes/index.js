@@ -14,4 +14,5 @@ const rotas = (app) =>{
     );
 }
 
+
 export default rotas;
